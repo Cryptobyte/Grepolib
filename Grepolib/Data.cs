@@ -1,5 +1,4 @@
 ﻿using Grepolib.Objects;
-using Grepolib.Objects.Enum;
 using System;
 using System.Collections.Generic;
 using System.IO;
